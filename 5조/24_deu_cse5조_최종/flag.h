@@ -1,0 +1,1 @@
+static bool flag_pay_done;
